@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://plantas32.github.io/plantas32/'
 languageCode = 'en-us'
 title = 'Plantas32'
 theme= "graysx-hugo"
