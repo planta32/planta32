@@ -9,9 +9,9 @@ logo = "assets/img/logo.webp"
 favicon = "assets/favicon.png"
 
 # Info
-address = "123 Arch B1W, GNU/Linux"
-email = "hello@graysx.com"
-phone = "123456"
+address = "Bogotá - Ciudad Bolivar"
+email = "notasmusicales1993@gmail.com"
+phone = "3202352352"
 
 # Socials
 
@@ -27,18 +27,18 @@ sbtoken = "TOKEN_HERE"
 ## Menu Items
 [menu]
   [[menu.main]]
-  name = "About"
+  name = "Nosotros"
   URL = "#about"
   weight = 1
 
   [[menu.main]]
-  name = "Projects"
+  name = "Productos"
   URL = "#projects"
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
-  URL = "#signup"
+  name = "Contactanos"
+  URL = "#contactme"
   weight = 3
 
 
