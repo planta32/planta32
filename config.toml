@@ -1,6 +1,6 @@
-baseURL = 'https://plantas32.github.io/plantas32/'
+baseURL = 'https://planta32.github.io/planta32/'
 languageCode = 'en-us'
-title = 'Plantas32'
+title = 'Planta32'
 theme= "graysx-hugo"
 
 ## Site Settings
@@ -9,7 +9,7 @@ logo = "assets/img/logo.webp"
 favicon = "assets/favicon.png"
 
 # Info
-address = "Bogotá - Ciudad Bolivar"
+address = "Bogotá - Colombia"
 email = "notasmusicales1993@gmail.com"
 phone = "3202352352"
 
