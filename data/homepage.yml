@@ -1,8 +1,8 @@
 # Main Title
 main:
   header:
-    title : "Plantas32" # Title Text
-    description : "Somos tu mejor opción para mejorar tus espacios." # Title Desc
+    title : "Planta32" # Title Text
+    description : "Somos tu aliado para personalizar y reverdecer tus espacios." # Title Desc
     button:
       text: "Conoce Más" # Button Text
       url: "#about" # Button URL
@@ -13,24 +13,39 @@ about:
   desc: "En años pos - pandemia nos miramos los rostros y decidimos invertir y trabajar en algo que anime a las personas a reverdecer sus ambientes, juntamos el arte de lo natural, las cerámicas y técnicas de pintura con el fin de que ames, cuides y veas crecer tu planta.  Es un trabajo hecho a mano que sale desde el corazón y alimenta creativamente nuestro mundo."
   button:
     enable: true
-    text: "Escribenos"
-    url: "#"
-  image: "assets/img/header.jpg"
+    text: "WhatsApp"
+    url: "https://wa.me/573213296759"
+  image: "assets/img/header1.jpeg"
 
 projects:
   card1:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/ceramica1.jpg"
+    title: "Mini - Humano"
+    text: "Categoría A - Tamaño: 8cm X 13 cm -
+            Planta: Suculenta Sedum palmeri (puedes elegir entre otras suculentas)"
+    img: "assets/img/humano1.jpeg"
   card2:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/ceramica2.jpg"
+    title: "Tacita"
+    text: "
+Categoría B -
+Tamaño: Aprox. 8cm x 7cm -
+Planta: Suculenta"
+    img: "assets/img/tacita.jpg"
   card3:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/ceramica3.jpg"
+    title: "Temático"
+    text: "
+Categoría C -
+Tamaño: aprox 14cm x 15cm -
+Planta: suculenta"
+    img: "assets/img/tematico.jpeg"
   card4:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/ceramica4.jpg"
+    title: "Temático bigger"
+    text: " Categoría D -
+            Tamaño Aprox: 12.5cmX 13cm -
+            Planta: Suculenta cactus"
+    img: "assets/img/tematicob.jpeg"
+  card5:
+    title: "Espacial"
+    text: "Categoría E -
+            Tamaño Aprox: 19cm x 21cm -
+            Planta: Suculenta"
+    img: "assets/img/espacial.jpeg"

@@ -78,6 +78,7 @@
                         </div>
                     </div>
                 </div>
+                
                 <!-- Project One Row-->
                 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
                     <div class="col-lg-6"><img class="img-fluid" src="{{ .card4.img }}" alt="..." /></div>
@@ -94,6 +95,18 @@
                     </div>
                 </div>
             </div>
+            <div style="margin-top: 40px;"></div>
+            <div class="container px-4 px-lg-5">
+                <!-- Featured Project Row-->
+                <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
+                    <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="{{ .card5.img }}" alt="..." /></div>
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="featured-text text-center text-lg-left">
+                            <h4>{{ .card5.title }}</h4>
+                            <p class="text-black-50 mb-0">{{ .card5.text }}</p>
+                        </div>
+                    </div>
+                </div>
         </section>
         {{ end }}
     
@@ -133,7 +146,7 @@
                     </div>
                 </div>
                 <div class="social d-flex justify-content-center">
-                    <a class="mx-2" href="{{ site.Params.twitter }}"><i class="fab fa-twitter"></i></a>
+                    <a class="mx-2" href="{{ site.Params.instagram }}"><i class="fab fa-instagram"></i></a>
                     <a class="mx-2" href="{{ site.Params.facebook }}"><i class="fab fa-facebook-f"></i></a>
                     <a class="mx-2" href="{{ site.Params.github }}"><i class="fab fa-github"></i></a>
                 </div>
